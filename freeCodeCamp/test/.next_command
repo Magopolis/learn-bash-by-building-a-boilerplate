@@ -5,3 +5,7 @@ rm --help
 rm -r fonts
 ls --color=auto
 touch package.json
+touch server.json
+ls --color=auto
+rm server.json
+touch server.js
