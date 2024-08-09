@@ -9,3 +9,4 @@ touch server.json
 ls --color=auto
 rm server.json
 touch server.js
+touch README.md
